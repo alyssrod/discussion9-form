@@ -29,7 +29,8 @@
     font-size: 18px;
     font-weight: bold;
     background: #96afcf; 
-    color: #fff;
+    color: #ffffff;
+
   }
 
   #message {
@@ -49,7 +50,7 @@
     width: 100%;
     padding: 10px;
     background-color: #ffffff;
-    color: white;
+    color: #ffffff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
