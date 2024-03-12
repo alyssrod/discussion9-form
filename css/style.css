@@ -19,7 +19,7 @@
   .radio {
     grid-column-start: 1;
     grid-column-end: 3;
-    /* background: #575294; */
+    background: #96afcf;
     color: #ffffff;
   }
 
